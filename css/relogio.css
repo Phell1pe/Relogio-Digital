@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+#cont {
+    color: rgb(255, 0, 0);
+    margin-left: 480px;
+    margin-right: 380px;
+    margin-top: 300px;
+    border-radius: 30px;
+    padding: 60px;
+    padding-left: 80px;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 65px;
+    transition: 1s;
+    text-shadow: 1px 2px 3px rgb(255, 107, 107);
+    background-color: rgb(22, 22, 22);
+
+}
+
+#cont:hover {
+    font-size: 70px;
+}
